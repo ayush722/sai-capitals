@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 06/02/2021 03:26
+  	Creation date: 19/02/2021 16:15
   	*/
 
 @font-face {
@@ -28,26 +28,15 @@
   font-style: normal;
 }
 
-.flaticon-phone-call:before { content: "\f100"; }
-.flaticon-location:before { content: "\f101"; }
-.flaticon-email:before { content: "\f102"; }
-.flaticon-plus:before { content: "\f103"; }
-.flaticon-facebook-app-symbol:before { content: "\f104"; }
-.flaticon-twitter:before { content: "\f105"; }
-.flaticon-youtube:before { content: "\f106"; }
-.flaticon-behance:before { content: "\f107"; }
-.flaticon-umbrella:before { content: "\f108"; }
-.flaticon-stock:before { content: "\f109"; }
-.flaticon-calendar:before { content: "\f10a"; }
-.flaticon-user:before { content: "\f10b"; }
-.flaticon-angle-arrow-pointing-to-right:before { content: "\f10c"; }
-.flaticon-keyboard-left-arrow-button:before { content: "\f10d"; }
-.flaticon-keyboard-right-arrow-button:before { content: "\f10e"; }
-.flaticon-consultation:before { content: "\f10f"; }
-.flaticon-analytics:before { content: "\f110"; }
-.flaticon-insurance:before { content: "\f111"; }
-.flaticon-cooperation:before { content: "\f112"; }
-.flaticon-profit:before { content: "\f113"; }
-.flaticon-new:before { content: "\f114"; }
-.flaticon-menu:before { content: "\f115"; }
-.flaticon-right:before { content: "\f116"; }
+.flaticon-shopping-basket:before { content: "\f100"; }
+.flaticon-loupe:before { content: "\f101"; }
+.flaticon-facebook:before { content: "\f102"; }
+.flaticon-twitter:before { content: "\f103"; }
+.flaticon-pinterest:before { content: "\f104"; }
+.flaticon-behance:before { content: "\f105"; }
+.flaticon-pie-chart:before { content: "\f106"; }
+.flaticon-startup:before { content: "\f107"; }
+.flaticon-diagram:before { content: "\f108"; }
+.flaticon-big-data:before { content: "\f109"; }
+.flaticon-checked:before { content: "\f10a"; }
+.flaticon-right-arrow:before { content: "\f10b"; }
